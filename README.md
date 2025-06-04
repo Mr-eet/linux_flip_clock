@@ -7,3 +7,7 @@ This clock application works with Python. This application has a simple style an
 # On python
 - Python3 : python3 clock.py
 - Python : python clock.py
+
+# Is that open-source?
+## Yes!!
+## YEEEEEEAAAAAAHH 🐧🐧🐧🐧🐧🐧
